@@ -12,6 +12,8 @@ let total = 0;
   
 // alert(`Общая сумма чисел равна ${total}`);
 
+// Вариант 2 
+
 while (true) {
   let input = prompt('Ведите число');
  
